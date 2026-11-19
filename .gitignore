@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller
+build/
+dist/
+release/
+*.spec
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# 调试截图
+debug_*.png
+_smoke_test.py
+_cleanup_db.py
+_profile_start.py
